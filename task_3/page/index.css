@@ -1,0 +1,17 @@
+@import url(../blocks/style/style.css);
+/*__________________________________________________________*/
+@import url(../blocks/main/main.css);
+/*__________________________________________________________*/
+@import url(../blocks/form/form.css);
+/*__________________________________________________________*/
+@import url(../blocks/chat-place/chat-place.css);
+/*__________________________________________________________*/
+@import url(../blocks/block/server-message.css);
+@import url(../blocks/block/user-message.css);
+/*__________________________________________________________*/
+@import url(../blocks/user-message/user-message.css);
+/*__________________________________________________________*/
+@import url(../blocks/server-message/server-message.css);
+/*__________________________________________________________*/
+@import url(../blocks/button/button.css);
+/*__________________________________________________________*/

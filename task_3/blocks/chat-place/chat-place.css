@@ -1,0 +1,12 @@
+.chat-place {
+    width: 700px;
+    height: 500px;
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+    overflow-y: scroll;
+    padding: 15px;
+    border: 5px solid rgba(4, 83, 97, 0.5);
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,7 @@
+.form {
+    width: 700px;
+    height: 36px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
